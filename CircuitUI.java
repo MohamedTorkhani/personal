@@ -8,7 +8,7 @@ public class CircuitUI {
     public CircuitUI() {
         frame = new JFrame("Simulation de circuit");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(800, 600);
+        frame.setSize(800, 500);
         frame.setLayout(new BorderLayout());
 
         // Créer le panneau de placement
